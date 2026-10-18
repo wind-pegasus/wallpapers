@@ -12,7 +12,8 @@ Installation
 
 you can download this repository as a .zip file and then extract it.
 
-Alternatively, if you how to you git do so
+Alternatively, if you know how to use you git do so 
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 Credits
 
