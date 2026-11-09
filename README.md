@@ -1,6 +1,6 @@
 Wallpapers
 
-These are all the wallpapers for my self
+These are all the wallpapers, for my self usage.
 
 
 Notes
